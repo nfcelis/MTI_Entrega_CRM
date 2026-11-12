@@ -5,7 +5,7 @@ llega la solicitud hasta que el servicio se ejecuta, la pasa automáticamente en
 Logística y avisa cuando algo se atrasa. Está construido sobre **[Frappe CRM](https://github.com/frappe/crm)**
 (código abierto), usando solo elementos estándar, para que MTI pueda mantenerlo sin un área de TI.
 
-**En producción:** https://mtigruas.v.frappe.cloud/mti (Frappe Cloud · Frappe 16 + Frappe CRM)
+**En producción:**  (Frappe Cloud · Frappe 16 + Frappe CRM)
 
 ![Tablero de ofertas](docs/capturas/01-tablero.png)
 
