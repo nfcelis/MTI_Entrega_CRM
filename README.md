@@ -69,13 +69,6 @@ docker compose exec frappe bash -lc "cp /workspace/mti_demo.py frappe-bench/apps
 
 Abrir http://localhost:8000/mti
 
-| Usuario (solo local) | Perfil | Clave |
-|---|---|---|
-| `mcamila@mti.demo` | Comercial – Cotizaciones (+ Logística) | `Mti.2026!` |
-| `ncelis@mti.demo` | Dirección de Proyectos | `Mti.2026!` |
-| `wvasquez@mti.demo` | Logística | `Mti.2026!` |
-| `mcelis@mti.demo` | Gerencia (solo consulta) | `Mti.2026!` |
-| `Administrator` | Administrador | `admin` |
 
 La primera vez con una carpeta nueva Docker instala todo desde cero: el instalador solo funciona cuando
 los registros muestran *Running on http://0.0.0.0:8000*.
